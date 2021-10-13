@@ -43,7 +43,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Multiple tunneling options
   - Localhost
   - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
+  - Cloudflared (Choose it)
 
 
 ### Installation
@@ -61,11 +61,6 @@ $ bash zphisher.sh
 
 - On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
 
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
 
 ### Dependencies
 
@@ -87,14 +82,6 @@ $ docker run --rm -it htrtech/zphisher
 <p align="center">
 <img src=".imgs/wf.gif"/>
 </p>
-
-### Special Thanks :
-
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
 
 
 ### Find Me on :
